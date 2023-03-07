@@ -1,13 +1,13 @@
 # myProject
 gitHub page test
 
-git bash 설치 방법
-https://parkjh7764.tistory.com/39
+<git bash 설치 방법>
+- https://parkjh7764.tistory.com/39
 
-github page 404 error 해결책
-https://mebadong.tistory.com/51
+<github page 404 error 해결책>
+- https://mebadong.tistory.com/51
 
-로컬에서 원격으로 업로드하는 법
+<로컬에서 원격으로 업로드하는 법>
 
 1. 로컬>새 폴더 생성
 2. git bash here
