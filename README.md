@@ -9,12 +9,12 @@ https://mebadong.tistory.com/51
 
 로컬에서 원격으로 업로드하는 법
 
-로컬>새 폴더 생성
-git bash here
-git clone https://github.com/ysoy0311/myProject.git
-->폴더에 myProject 폴더 생성됨
-로컬>myProject>업로드 하려는 파일 복붙/생성
-cd myProject (경로 이동)
-git add .
-git commit -m "init"
-git push origin main
+1. 로컬>새 폴더 생성
+2. git bash here
+3. git clone https://github.com/ysoy0311/myProject.git
+4. ->폴더에 myProject 폴더 생성됨
+5. 로컬>myProject>업로드 하려는 파일 복붙/생성
+6. cd myProject (경로 이동)
+7. git add .
+8. git commit -m "init"
+9. git push origin main
